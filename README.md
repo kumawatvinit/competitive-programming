@@ -385,4 +385,3 @@ Interview prep: When you are trying to get an engineering job, companies will te
 
 ### Thank you for Contributing :pray: :dizzy:
 
-![105](https://contributors-img.web.app/image?repo=kothariji/competitive-programming)
